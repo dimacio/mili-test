@@ -1,1 +1,1 @@
-web: gunicorn start_here:app_obj
+web: gunicorn app:app
